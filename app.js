@@ -9,3 +9,5 @@ const newItems = _.flattenDeep(items);
 console.log(newItems);
 
 console.log(items);
+
+console.log(`this is a test`);
